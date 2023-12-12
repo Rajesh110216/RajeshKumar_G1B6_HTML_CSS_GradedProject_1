@@ -30,6 +30,7 @@ a.	Use the Images given in the project file and create a simple animation to sho
 3.	Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it. 
 
 ============================== Lab Test Form ==============================
+
 4.	When clicked on Lab Test in the Navigation bar, a form shall open with validation  in a new page with following details.
 a.	Form shall have Patient Contact Details as follows.	
 i.	Full Name
@@ -54,6 +55,7 @@ e.	Select Your Comfortable Date and Time
 i.	Date 
 ii.	Time
 f.	Reset and Submit button
+---------------------------------------------------------------------------------
 
 
 General Instructions: 
